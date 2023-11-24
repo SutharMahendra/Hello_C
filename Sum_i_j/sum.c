@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+// sum of i and j //
 int main(){
     int arr[5][5]={
     {1,2,3,4,5},
